@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I love dancing!**
 
-- 🤝 Know my story by clicking on [https://www.linkedin.com/posts/ibm_shes-not-your-typical-tech-person-cristina-activity-7186649756448776192-fyzP?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/ibm_shes-not-your-typical-tech-person-cristina-activity-7186649756448776192-fyzP?utm_source=share&utm_medium=member_desktop)
+- 🤝 Know my story by clicking on [Cristina Gonzalez Marrero - Not your typical tech person!](https://www.linkedin.com/posts/ibm_shes-not-your-typical-tech-person-cristina-activity-7186649756448776192-fyzP?utm_source=share&utm_medium=member_desktop)
 
 
 <h3 align="left">Connect with me:</h3>
