@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cristina Gonzalez Marrero</h1>
 <h3 align="center">A Mathematician, Software Developer and Cloud Enthusiast from Canary Islands! 🇮🇨</h3>
 
-- 📚 I have a Bachelor's Degree in **Mathematics** from ULL & a Postgrad Degree in **Software Development** from Maynooth University
+- 📚 I have a Bachelor's Degree in **Mathematics** from University of La Laguna and a Postgrad Degree in **Software Development** from Maynooth University
 
 - 🔭 I’m currently working at **IBM** as a Software Developer / Container Security
 
