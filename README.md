@@ -3,9 +3,9 @@
 
 - 📚 I have a Bachelor's Degree in **Mathematics** from La Laguna University (ULL) and a Postgrad Degree in **Software Development** from Maynooth University, Ireland (NUIM)
 
-- 🔭 I’m currently working at **IBM** as a Software Developer / Container Security in Dublin, Ireland
+- 🔭 I’m currently working at **Workday** as a Senior Associate Software Development Engineer in Dublin, Ireland
 
-- 🌱 I’m currently preparing to take the **AWS Certified Developer - Associate** exam
+- 🌱 I’m currently starting a Part time **MSc in Data Science** in Technological University Dublin, (TU) 
 
 - 💬 Ask me about **Mathematics, AWS and Container Security**
 
