@@ -5,7 +5,9 @@
 
 - 🔭 I’m currently working at **Workday** as a Senior Associate Software Development Engineer in Dublin, Ireland
 
-- 🌱 I’m currently starting a Part time **MSc in Data Science** in Technological University Dublin, (TU) 
+- 🌱 I’m currently doing a Part time **MSc in Data Science** in Technological University Dublin, (TU)
+
+- 🌐 AWS Developer Associate DVA-C02 Course completed in April 2024.
 
 - 💬 Ask me about **Mathematics, AWS and Container Security**
 
