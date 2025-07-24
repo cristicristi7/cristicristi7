@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cristina Gonzalez Marrero</h1>
-<h3 align="center">A Mathematician, Software Developer and Cloud Enthusiast from Canary Islands! 🇮🇨</h3>
+<h3 align="center">A Mathematician, Software Developer and ML & Cloud Enthusiast from Canary Islands! 🇮🇨</h3>
 
 - 📚 I hold a Bachelor's Degree in **Mathematics** from La Laguna University (ULL) and a Postgrad Degree in **Software Development** from Maynooth University, Ireland (NUIM)
 
@@ -9,7 +9,7 @@
 
 - 🌐 AWS Developer Associate DVA-C02 Course completed in April 2024.
 
-- 💬 Ask me about **Mathematics, AWS and Container Security**
+- 💬 Ask me about **Mathematics, AWS and Machine Learning**
 
 - ⚡ Fun fact **I love dancing!**
 
