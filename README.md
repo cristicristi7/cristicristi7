@@ -7,8 +7,9 @@
 
 - 🌱 I recently completed a **MSc in Computer Science (Data Science)** in Technological University Dublin (TU) (2024-2026)
 
-- 🌐 AWS Certified Machine Learning Engineer MLA-C02/ME1-C02 in progress, 
-    AWS Developer Associate DVA-C02 Course completed in April 2024.
+- 🌐 **AWS Machine Learning Engineer** MLA-C02/ME1-C02 in progress
+
+  & AWS Developer Associate DVA-C02 Course completed in April 2024
 
 - 💬 Ask me about **Mathematics, Machine Learning and Deep Learning**
 
